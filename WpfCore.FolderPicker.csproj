@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+	<UseWPF>true</UseWPF>
+	<UseWindowsForms>True</UseWindowsForms>
+    <TargetFrameworks>netcoreapp3.1;net5.0-windows;net6.0-windows</TargetFrameworks>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+</Project>
